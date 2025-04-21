@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi-Livraria", "WebApi-Livraria\WebApi-Livraria.csproj", "{15A6C7C9-536C-49EF-A00B-0193A084C10A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A6C7C9-536C-49EF-A00B-0193A084C10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A6C7C9-536C-49EF-A00B-0193A084C10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A6C7C9-536C-49EF-A00B-0193A084C10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A6C7C9-536C-49EF-A00B-0193A084C10A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA02A3E1-8C5B-4E69-B471-92F130D8EB7A}
+	EndGlobalSection
+EndGlobal
